@@ -16,7 +16,7 @@ public class UDPServer {
         try {
             // Crear el socket del servidor UDP en el puerto especificado
             DatagramSocket serverSocket = new DatagramSocket(puertoServidor);
-            System.out.println("Servidor de Chat UDP escuchando en el puerto " + puertoServidor);
+            System.out.println("Servidor escuchando en el puerto " + puertoServidor);
 
             // Crear un pool de hilos para manejar múltiples clientes simultáneamente
             ExecutorService pool = Executors.newCachedThreadPool();
