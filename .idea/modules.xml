@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/sd-master.iml" filepath="$PROJECT_DIR$/.idea/sd-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sockets-client/sockets-client.iml" filepath="$PROJECT_DIR$/sockets-client/sockets-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sockets-server/sockets-server.iml" filepath="$PROJECT_DIR$/sockets-server/sockets-server.iml" />
     </modules>
   </component>
 </project>
